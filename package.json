@@ -1,0 +1,17 @@
+{
+  "name": "vertical-rhythms-without-compass",
+  "version": "1.0.1",
+  "homepage": "https://github.com/Emotion-nl/vertical-rhythms-without-compass",
+  "description": "",
+  "main": "vertical-rhythms/_vertical-rhythms.scss",
+  "eyeglass": { 
+    "needs": "^0.8.2" 
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "authors": [
+    "Zell Liew <zellwk@gmail.com>"
+  ],
+  "license": "MIT"
+}
